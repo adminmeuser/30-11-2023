@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+}
+
+.bx-main {
+    width: 500px;
+    margin: 0 auto;
+    background-color: lightgray;
+    background-image: url(../assets/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+form {
+    padding: 20px;
+    font-size: larger;
+    
+}
+input {
+    height: 30px;
+    width: 200px;
+    font-size: large;
+}
+
+input:hover {
+    background-color: aliceblue;
+}
+
+
+
+textarea:hover {
+    background-color: aliceblue;
+}
+button {
+    height: 25px;
+    width: 100px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightblue;
+}
